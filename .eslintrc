@@ -1,0 +1,6 @@
+{
+  "extends": ["eneax"],
+  "rules": {
+    "react/no-danger": 0
+  }
+}
